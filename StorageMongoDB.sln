@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoregeMongoDB", "StoregeMongoDB\StoregeMongoDB.csproj", "{6595B9B6-BB2E-4ED7-9D33-FAE46528D398}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageMongoDB", "StorageMongoDB\StorageMongoDB.csproj", "{6595B9B6-BB2E-4ED7-9D33-FAE46528D398}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
